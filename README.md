@@ -1,4 +1,4 @@
-# GreppableFormats
+# Greppable Formats
 The following script can be used to sort out file outputs more easily so they are ready to use for the pentest
 
 ## Setup
